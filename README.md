@@ -1,4 +1,4 @@
-# application-.net-de-location-des-maisons
+# Application .net de location des maisons
 
 L’objectif de ce projet est de réaliser une application web de gestion de location
 des maisons d’une agence en dot net.
